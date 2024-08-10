@@ -459,7 +459,7 @@ section {
 	.section-article-2,
 	.section-article-3 {
 		flex-direction: column;
-		text-align: center;
+		text-align: left;
 	}
 
 	.article-content,
