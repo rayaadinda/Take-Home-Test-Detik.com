@@ -354,7 +354,7 @@ section {
 }
 
 ::placeholder {
-	color: white;
+	color: black;
 }
 
 .input-wrapper {
@@ -429,7 +429,7 @@ section {
 	main {
 		padding: 20px;
 		height: auto;
-		text-align: center;
+		text-align: left;
 	}
 
 	.content {
