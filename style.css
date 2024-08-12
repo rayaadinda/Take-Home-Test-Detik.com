@@ -107,7 +107,7 @@ p {
 	border-radius: 5px;
 	border: 2px solid white;
 	background-color: white;
-	color: white;
+	color: black;
 	flex: 1;
 }
 
@@ -353,8 +353,8 @@ section {
 	color: white;
 }
 
-::placeholder {
-	color: black;
+.cta-form-footer::placeholder {
+	color: white;
 }
 
 .input-wrapper {
